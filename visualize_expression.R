@@ -1,7 +1,8 @@
 ##############################################
 ## Visualize raw and normalized sc-data
 ## Author: Levon Demirdjian
-## Last Updated: 08/30/2019 
+## Email: LevonDem@gmail.com
+## Last Updated: 09/01/2019 
 ## Description: This script performs PCA and 
 ## tSNE on Gene Yeo's (2017) single cell data
 ##############################################
